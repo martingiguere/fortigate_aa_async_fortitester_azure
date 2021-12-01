@@ -33,11 +33,8 @@ override.tf.json
 #Ignore terraform lock files
 *lock*
 
-<<<<<<< HEAD
+
 #Fortinet License Files
-=======
-#Fortinet License files
->>>>>>> cd98b66841dab638f49fd2665eee752ee512d54b
 *.lic
 
 #deploy-destroy notes
